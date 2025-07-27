@@ -16,6 +16,9 @@ The **E-Commerce Website** is a fully functional web application that enables us
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 
+## Live Demo
+https://stripe-0gc2.onrender.com
+
 ## Installation
 Follow these steps to set up the project locally:
 
